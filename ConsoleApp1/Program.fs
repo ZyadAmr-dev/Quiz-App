@@ -3,12 +3,10 @@ open System.IO
 open System.Windows.Forms
 open System.Text.Json
 
-// Define the Question type
 type Question = 
     | MCQ of text:string * options:string list * correctIndex:int
     | Written of text:string * correctAnswer:string
 
-// JSON Serialization helpers
 type QuestionJson = {
     id: int
     ``type``: string
