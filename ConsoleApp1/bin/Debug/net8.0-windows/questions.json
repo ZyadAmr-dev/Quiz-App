@@ -1,0 +1,78 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "type": "MCQ",
+        "text": "What is the capital of Japan?",
+        "options": ["Tokyo", "Kyoto", "Osaka"],
+        "correctIndex": 1
+      },
+      {
+        "id": 2,
+        "type": "MCQ", 
+        "text": "What is the capital of Australia?",
+        "options": ["Canberra", "Sydney", "Melbourne"],
+        "correctIndex": 1
+      },
+      {
+        "id": 3,
+        "type": "MCQ",
+        "text": "What is the capital of Canada?", 
+        "options": ["Toronto", "Ottawa", "Vancouver"],
+        "correctIndex": 2
+      },
+      {
+        "id": 4,
+        "type": "MCQ",
+        "text": "What is the capital of Egypt?",
+        "options": ["Cairo", "Alexandria", "Giza"],
+        "correctIndex": 1
+      },
+      {
+        "id": 5,
+        "type": "MCQ",
+        "text": "Which country won the FIFA World Cup in 2018?",
+        "options": ["France", "Croatia", "Germany"],
+        "correctIndex": 1
+      },
+      {
+        "id": 5,
+        "type": "MCQ",
+        "text": "Which country is is is?",
+        "options": ["France", "Croatia", "Germany"],
+        "correctIndex": 1
+      },
+      {
+        "id": 6,
+        "type": "MCQ", 
+        "text": "Which player is known as 'El Pibe de Oro'?",
+        "options": ["Lionel Messi", "Diego Maradona", "Cristiano Ronaldo"],
+        "correctIndex": 2
+      },
+      {
+        "id": 7,
+        "type": "MCQ",
+        "text": "Which club has won the most UEFA Champions League titles?",
+        "options": ["Real Madrid", "Barcelona", "AC Milan"],
+        "correctIndex": 1
+      },
+      {
+        "id": 8,
+        "type": "Written",
+        "text": "What is the capital of Italy?",
+        "correctAnswer": "Rome"
+      },
+      {
+        "id": 9,
+        "type": "Written", 
+        "text": "What is the capital of India?",
+        "correctAnswer": "New Delhi"
+      },
+      {
+        "id": 10,
+        "type": "Written",
+        "text": "Who won the Ballon d'Or in 2023?", 
+        "correctAnswer": "Lionel Messi"
+      }
+    ]
+  }
