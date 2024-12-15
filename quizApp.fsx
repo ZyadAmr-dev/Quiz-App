@@ -2,7 +2,7 @@ open System
 let mutable score = 0
 
 type Question =
-    | MCQ of string * string list * int // 1-index not 0
+    | MCQ of string * string list * int 
     | Written of string * string  
 
 let quizQuestions =
